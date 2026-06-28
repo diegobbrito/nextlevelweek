@@ -14,7 +14,7 @@
     "@react-navigation/native": "^5.5.1",
     "@react-navigation/stack": "^5.4.2",
     "@types/multer": "^1.4.3",
-    "axios": "^0.19.2",
+    "axios": "^0.32.0",
     "expo": "~37.0.3",
     "expo-font": "~8.1.0",
     "expo-location": "~8.1.0",
@@ -31,7 +31,7 @@
     "react-native-web": "~0.11.7"
   },
   "devDependencies": {
-    "@babel/core": "^7.8.6",
+    "@babel/core": "^7.29.6",
     "@types/react": "~16.9.23",
     "@types/react-native": "~0.61.17",
     "babel-preset-expo": "~8.1.0",
